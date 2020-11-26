@@ -1,9 +1,11 @@
 Package: com.nito.restart-backboard
 Name: RespringBackboard
-Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1)
+Depends: mobilesubstrate, com.nito.tvcontrolcenter (>= 1.1), firmware (>=13.0) 
 Version: 1.0
 Architecture: appletvos-arm64
 Description: Restart backboardd from the control center!
 Maintainer: Kevin Bradley
 Author: Kevin Bradley
 Section: Tweaks
+Depiction: https://nitosoft.com/ATV4/respring/respring.json
+Icon: https://nitosoft.com/ATV4/respring/respring_icon.png
